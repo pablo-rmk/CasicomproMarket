@@ -1,0 +1,22 @@
+img {
+  height: 20vh;
+}
+a:link {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#divPrecio{
+  height: 6vh;
+}
+#imagen{
+  height: 25vh;
+}
+
+#textoMarca {
+  height: 5vh;
+}
+
+#caja{
+  margin-top:25vh;
+}
